@@ -1,3 +1,12 @@
+## 0.1.1 (2022-09-22)
+
+
+### Bug Fixes
+
+* github workflow ([34fbaa2](https://github.com/kazizi55/vite-npm-test-app/commit/34fbaa28cb4796e63ad76196437cb1b459982b00))
+
+
+
 # 0.1.0 (2022-09-22)
 
 
